@@ -1,9 +1,3 @@
-# -*- coding: utf-8 -*-
-"""
-Created on Sat Nov  4 20:08:35 2017
-
-@author: Kiran Chandar Jayaraman
-"""
 # import necessary packages required for processing
 import datetime
 import requests
