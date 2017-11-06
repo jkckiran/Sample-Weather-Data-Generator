@@ -1,0 +1,24 @@
+Chennai,India
+Sao Paulo,Brazil
+Sydney,Australia
+Tokyo,Japan
+Manila,Philippines
+Delhi,India
+Lagos,Nigeria
+Buenos Aires,Argentina
+Moscow,Russia
+Shanghai,China
+Paris,France
+New York,USA
+Berlin,Germany
+Mumbai,India
+Jakarta,Indonesia
+Cairo,Egypt
+Los Angeles,USA
+Karachi,Pakistan
+Toronto,Canada
+Frankfurt,Germany
+San Francisco,USA
+Johannesburg,South Africa
+Bangkok,Thailand
+Laos,Cambodia

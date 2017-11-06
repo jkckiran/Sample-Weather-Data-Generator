@@ -1,0 +1,14 @@
+Lahore,Pakistan
+Dubai,UAE
+Melbourne,Australia
+Beirut,Lebanon
+Budapest,Hungary
+BOGOTA,Colombia
+St Petersburg,Russia
+Pusan,South Korea
+Malang,Indonesia
+Casablanca,Morocco
+PYONGYANG,North Korea
+ROMA,Italy
+Bali,Indonesia
+Kochi,India
