@@ -1,11 +1,11 @@
-# import necessary packages required for processing
+# Necessary packages required for processing
 import datetime
 import requests
 import pandas as pd
 import forecastio
 import numpy as np
 
-# Importing Supervised Learning Estimators. 
+# Supervised Learning Estimators. 
 # Linear Regression for Numeric variables & Naive Bayes for String variables
 from sklearn.linear_model import LinearRegression
 from sklearn.naive_bayes import GaussianNB
