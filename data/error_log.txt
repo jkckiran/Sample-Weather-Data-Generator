@@ -1,26 +1,15 @@
 Logging Location Data Errors
-----------------------------
 
-LatLong_URL is not fetching Latitude, Longitude values for Chennai,India
-LatLong_URL is not fetching Latitude, Longitude values for Sao Paulo,Brazil
-LatLong_URL is not fetching Latitude, Longitude values for Buenos Aires,Argentina
-LatLong_URL is not fetching Latitude, Longitude values for Mumbai,India
-LatLong_URL is not fetching Latitude, Longitude values for Cairo,Egypt
-LatLong_URL is not fetching Latitude, Longitude values for Los Angeles,USA
-LatLong_URL is not fetching Latitude, Longitude values for Karachi,Pakistan
-LatLong_URL is not fetching Latitude, Longitude values for Toronto,Canada
-LatLong_URL is not fetching Latitude, Longitude values for Johannesburg,South Africa
-LatLong_URL is not fetching Latitude, Longitude values for Bangkok,Thailand
-LatLong_URL is not fetching Latitude, Longitude values for Laos,Cambodia
+
+LatLong_URL is not fetching values for Moscow,Russia
+LatLong_URL is not fetching values for New York,USA
+LatLong_URL is not fetching values for Berlin,Germany
 
 
 Logging Location Data Errors
-----------------------------
 
-LatLong_URL is not fetching Latitude, Longitude values for Dubai,UAE
-LatLong_URL is not fetching Latitude, Longitude values for St Petersburg,Russia
-LatLong_URL is not fetching Latitude, Longitude values for Pusan,South Korea
-LatLong_URL is not fetching Latitude, Longitude values for Malang,Indonesia
-LatLong_URL is not fetching Latitude, Longitude values for Kochi,India
+
+LatLong_URL is not fetching values for ROMA,Italy
+LatLong_URL is not fetching values for Bali,Indonesia
 
 
