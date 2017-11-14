@@ -2,7 +2,7 @@
 
 ## This repository contains the following python codes which will generate sample weather data using machine learning algorithms.
 
-* Test_Weather.py - This is the master script which invokes other python scripts for execution.
+* Test_Weather_v3.py - This is the master script which invokes other python scripts for execution.
 * location_data.py - This script fetches location data such as latitude, longitude, elevation co-ordinates for the given set of train locations in the input file.
 * weather_data.py - This script fetches weather data such as temperature, pressure, humidity, etc... by taking the location co-ordinates (created in previous script) as input.
 * model_data.py - This script creates 4 learning models for each response variable (temperature, pressure, humidity, conditions).
