@@ -1,6 +1,12 @@
 # Sample-Weather-Data-Generator
 
-## This repository contains python code(Test_Weather.py) which will generate sample weather data using machine learning algorithms.
+## This repository contains the following python codes which will generate sample weather data using machine learning algorithms.
+
+* Test_Weather.py - This is the master script which invokes other python scripts for execution.
+* location_data.py - This script fetches location data such as latitude, longitude, elevation co-ordinates for the given set of train locations in the input file.
+* weather_data.py - This script fetches weather data such as temperature, pressure, humidity, etc... by taking the location co-ordinates (created in previous script) as input.
+* model_data.py - This script creates 4 learning models for each response variable (temperature, pressure, humidity, conditions).
+* weather_prediction.py - This script will predict the output values for the given set of test locations using the models that are already trained based on training data.
 
 
 
