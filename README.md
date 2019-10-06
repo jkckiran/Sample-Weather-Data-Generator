@@ -10,7 +10,7 @@
 
 
 
-**Input File 1** - train_file.txt contains the list of locations that have been used to train the machine learning models.
+**Input File 1** - train_file.txt contains the list of locations that have been used to train the machine learning models. You can use any location and 'n' number of locations in the world to train the model
 
 **Input File 2** - test_file.txt contains the list of locations for which the weather details have been predicted / generated using the machine learning models that were trained before.
 
